@@ -1,0 +1,33 @@
+body{
+    align-items: center;
+    background-color: rgb(105, 105, 212);
+
+}
+
+header{
+
+    width: 100%;
+    background-color: rgb(49, 106, 172);
+    text-align: center;
+    color: white;
+
+
+}
+
+header :hover{
+
+    color: rgb(11, 195, 219);
+
+}
+
+div{
+    margin-left: 29%;
+    background-color: rgb(54, 102, 156);
+    width: 500px;
+    height: 300px;
+    color: white;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    align-items: center;
+}
